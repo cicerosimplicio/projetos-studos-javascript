@@ -33,6 +33,13 @@ main {
     display: block;
 }
 
+.container > h2 {
+    padding: 20px 60px;
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+}
+
 .btn {
     width: 20%;
     padding: 0;
